@@ -1,0 +1,10 @@
+C:\Projects\Mapper\MapperLibrary\MapperLibrary\bin\Debug\netstandard2.0\MapperLibrary.deps.json
+C:\Projects\Mapper\MapperLibrary\MapperLibrary\bin\Debug\netstandard2.0\MapperLibrary.dll
+C:\Projects\Mapper\MapperLibrary\MapperLibrary\bin\Debug\netstandard2.0\MapperLibrary.pdb
+C:\Projects\Mapper\MapperLibrary\MapperLibrary\obj\Debug\netstandard2.0\MapperLibrary.csproj.AssemblyReference.cache
+C:\Projects\Mapper\MapperLibrary\MapperLibrary\obj\Debug\netstandard2.0\MapperLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Mapper\MapperLibrary\MapperLibrary\obj\Debug\netstandard2.0\MapperLibrary.AssemblyInfoInputs.cache
+C:\Projects\Mapper\MapperLibrary\MapperLibrary\obj\Debug\netstandard2.0\MapperLibrary.AssemblyInfo.cs
+C:\Projects\Mapper\MapperLibrary\MapperLibrary\obj\Debug\netstandard2.0\MapperLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\Mapper\MapperLibrary\MapperLibrary\obj\Debug\netstandard2.0\MapperLibrary.dll
+C:\Projects\Mapper\MapperLibrary\MapperLibrary\obj\Debug\netstandard2.0\MapperLibrary.pdb
